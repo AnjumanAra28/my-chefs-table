@@ -1,0 +1,100 @@
+[
+    {
+        "recipe_name": "Spaghetti Carbonara",
+        "recipe_id": 101,
+        "recipe_img": "https://i.ibb.co/vQ73HxC/friends-enjoying-lunch.jpg",
+        "ingredients": [
+            "200g spaghetti",
+            "100g pancetta",
+            "2 large eggs",
+            "50g grated Parmesan",
+            "Salt",
+            "Pepper"
+        ],
+        "preparing_time": "20 minutes",
+        "calories": 400,
+        "short_description": "Classic Italian pasta dish with creamy egg, Parmesan, and pancetta sauce."
+    },
+    {
+        "recipe_name": "Avocado Toast with Poached Egg",
+        "recipe_id": 102,
+        "recipe_img": "https://i.ibb.co/vQ73HxC/friends-enjoying-lunch.jpg",
+        "ingredients": [
+            "1 slice whole-grain bread",
+            "1/2 avocado",
+            "1 large egg",
+            "Salt",
+            "Pepper",
+            "Chili flakes"
+        ],
+        "preparing_time": "10 minutes",
+        "calories": 250,
+        "short_description": "A healthy and quick breakfast option with creamy avocado and a poached egg."
+    },
+    {
+        "recipe_name": "Chicken Caesar Salad",
+        "recipe_id": 103,
+        "recipe_img": "https://i.ibb.co/vQ73HxC/friends-enjoying-lunch.jpg",
+        "ingredients": [
+            "200g romaine lettuce",
+            "150g grilled chicken breast",
+            "50g croutons",
+            "30g Parmesan cheese",
+            "Caesar dressing"
+        ],
+        "preparing_time": "15 minutes",
+        "calories": 350,
+        "short_description": "A light yet filling salad with grilled chicken, Parmesan, and classic Caesar dressing."
+    },
+    {
+        "recipe_name": "Margarita Pizza",
+        "recipe_id": 104,
+        "recipe_img": "https://i.ibb.co/vQ73HxC/friends-enjoying-lunch.jpg",
+        "ingredients": [
+            "200g pizza dough",
+            "100g tomato sauce",
+            "100g fresh mozzarella",
+            "Fresh basil leaves",
+            "Olive oil"
+        ],
+        "preparing_time": "30 minutes",
+        "calories": 600,
+        "short_description": "Classic Italian pizza with fresh mozzarella, basil, and tomato sauce."
+    },
+    {
+        "recipe_name": "Beef Tacos",
+        "recipe_id": 105,
+        "recipe_img": "https://i.ibb.co/vQ73HxC/friends-enjoying-lunch.jpg",
+        "ingredients": [
+            "200g ground beef",
+            "3 taco shells",
+            "50g shredded cheese",
+            "Lettuce",
+            "Tomato",
+            "Sour cream",
+            "Taco seasoning"
+        ],
+        "preparing_time": "25 minutes",
+        "calories": 500,
+        "short_description": "Delicious tacos with seasoned beef, fresh veggies, and cheese in a crispy shell."
+    },
+    {
+        "recipe_name": "Vegan Buddha Bowl",
+        "recipe_id": 106,
+        "recipe_img": "https://i.ibb.co/vQ73HxC/friends-enjoying-lunch.jpg",
+        "ingredients": [
+            "50g quinoa",
+            "100g mixed greens",
+            "50g chickpeas",
+            "1/2 avocado",
+            "Cherry tomatoes",
+            "Hummus",
+            "Tahini dressing"
+        ],
+        "preparing_time": "20 minutes",
+        "calories": 300,
+        "short_description": "A nutrient-packed bowl with quinoa, chickpeas, avocado, and a tahini dressing."
+    }
+]
+
+
